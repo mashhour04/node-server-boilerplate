@@ -1,0 +1,7 @@
+{
+    "ignore": [
+        "esLogs/*",
+        "dummyIdsForLogging.json",
+        "public/"
+    ]
+}
