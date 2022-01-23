@@ -121,5 +121,5 @@ Component based node server architecture that is dockerized and ready for deploy
 
 #### ADMIN CREDENTIALS
 
-- ADMIN_PHONE: is the admin login phone number and must to be a valid mobile
+- ADMIN_USERNAME: is the admin login phone number and must to be a valid mobile
 - ADMIN_PASSWORD: is the admin login password
